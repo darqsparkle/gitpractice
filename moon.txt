@@ -1,3 +1,7 @@
 Hello
 
-making changes
+making changes 
+
+line 1
+
+line 2
